@@ -1,4 +1,4 @@
-package com.feizai.compost.ui.theme
+package com.feizai.compose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

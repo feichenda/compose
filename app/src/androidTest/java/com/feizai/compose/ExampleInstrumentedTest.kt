@@ -1,4 +1,4 @@
-package com.feizai.compost
+package com.feizai.compose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.feizai.compost", appContext.packageName)
+        assertEquals("com.feizai.compose", appContext.packageName)
     }
 }
